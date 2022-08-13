@@ -17,37 +17,37 @@ function Typography() {
                 <div className="typography-line">
                   <h1>
                     <span>Header 1</span>
-                    The Life of Now UI Kit
+                    The Life of Advetfly impex
                   </h1>
                 </div>
                 <div className="typography-line">
                   <h2>
                     <span>Header 2</span>
-                    The Life of Now UI Kit
+                    The Life of Advetfly impex
                   </h2>
                 </div>
                 <div className="typography-line">
                   <h3>
                     <span>Header 3</span>
-                    The Life of Now UI Kit
+                    The Life of Advetfly impex
                   </h3>
                 </div>
                 <div className="typography-line">
                   <h4>
                     <span>Header 4</span>
-                    The Life of Now UI Kit
+                    The Life of Advetfly impex
                   </h4>
                 </div>
                 <div className="typography-line">
                   <h5>
                     <span>Header 5</span>
-                    The Life of Now UI Kit
+                    The Life of Advetfly impex
                   </h5>
                 </div>
                 <div className="typography-line">
                   <h6>
                     <span>Header 6</span>
-                    The Life of Now UI Kit
+                    The Life of Advetfly impex
                   </h6>
                 </div>
                 <div className="typography-line">
